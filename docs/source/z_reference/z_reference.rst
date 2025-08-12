@@ -8,3 +8,5 @@ direction
 signs
     Some other signs.
 
+term
+    Another term.s
